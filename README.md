@@ -1,4 +1,4 @@
 # hello-world
-easy
-my name is sayoko，I'm a complete beginner to coding
+
+my name is sayoko，I'm a complete beginner to code!
 I wish i can learn something!
